@@ -19,6 +19,11 @@ autolink = true
 email_form = 0
 +++
 
+**微信：**
+
+ncp2025
+
+
 **联系邮箱：**
 
 cancms@163.com
