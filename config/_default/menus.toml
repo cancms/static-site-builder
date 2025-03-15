@@ -18,10 +18,10 @@
   url = "#contact"
   weight = 30
 
-#[[main]]
-#  name = "Blog"
-#  url = "blog/"
-#  weight = 40
+[[main]]
+  name = "案例展示"
+  url = "cancms-com/portfolio/"
+  weight = 40
 
 #[[main]]
 #  name = "Contact"
