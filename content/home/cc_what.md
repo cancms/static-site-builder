@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 18  # Order that this section will appear in.
 
 # title = "Hello, I am Cunyi Yang!"
-title = "个人网站制作服务"
+title = "学术网站制作服务"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
